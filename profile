@@ -1,1 +1,1 @@
-SE student @ NUML Islamabad | Coding enthusiast in C++ & Java | Software Requirement Engineering & Development."
+SE student @ NUML Islamabad | Coding in C++ & Java | Software Engineering & Development."
